@@ -13,8 +13,9 @@ Tugas akhir untuk mata kuliah gravika komputer dan visualisasi (KOM1304). Source
 # Stacked Barchart:
 1. Memvisualisasikan persentase kasus aktif dan kematian dari total kasus COVID-19 di berbagai wilayah di Indonesia.
 2. Membantu pengguna memahami proporsi antara jumlah orang yang terinfeksi dan jumlah kematian dalam satu tampilan.
-   
-    ![image](https://github.com/Roufth/Tugas-Akhir-GKV/assets/150829626/10c589ee-7116-4369-9f9b-355b150d9697)
+
+   ![image](https://github.com/Roufth/Tugas-Akhir-GKV/assets/150829626/0afabd99-7b78-41f5-902d-47b046e919d0)
+
 
    
 # Line Chart:
