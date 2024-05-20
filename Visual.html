@@ -1,10 +1,22 @@
-<html>
-  <head>
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript" src="Geochart.js"></script>
-  </head>
-  <body>
-    <div id="regions_div"></div>
-  </body>
-</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Covid-19 Data Visualization</title>
 
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+</head>
+<body>
+
+    <div id="lineplot" style="width:800px; height:500px; padding: 50px"></div>
+    <canvas id="myChart" width="800px" height="300px" ></canvas>
+    <h2 style="padding-left: 50px; padding-top: 50px; font-family: sans-serif; font-weight:100">Sebaran Kasus Covid-19 di Indonesia</h2>
+    <div id="regions_div" style="width: 800px; height: 500px; padding-left: 50px"></div>
+
+
+    <script src="Visual.js"></script>
+</body>
+</html>
