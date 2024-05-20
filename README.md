@@ -2,7 +2,7 @@
 
 Tugas akhir untuk mata kuliah gravika komputer dan visualisasi (KOM1304). Source dataset: https://www.kaggle.com/datasets/hendratno/covid19-indonesia
 
-# Fitur Visualisasi
+
 # Peta Interaktif:
 1. Menampilkan distribusi kasus COVID-19 di berbagai provinsi di Indonesia.
 2. Pengguna dapat melihat detail kasus berdasarkan wilayah dengan menggunakan fitur interaktif pada peta.
