@@ -166,7 +166,7 @@ function drawRegionsMap() {
         ['Bali', 166831],
         ['Banten', 333875],
         ['Bengkulu', 29173],
-        ['DKI Jakarta', 1412511],
+        ['ID-JK', 1412511],
         ['Yogyakarta', 224307],
         ['Gorontalo', 13951],
         ['Jambi', 38643],
@@ -203,7 +203,7 @@ function drawRegionsMap() {
         region: 'ID',
         displayMode: 'regions',
         resolution: 'provinces',
-        colorAxis: {minValue: 1.0e3, maxValue: 1.0e6, colors: ['#EF5941', '#2F1A41'] }
+        colorAxis: {minValue: 1.0e3, maxValue: 1.5e6, colors: ['#EF5941', '#2F1A41'] }
     };
 
     var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
